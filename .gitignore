@@ -1,0 +1,9 @@
+target
+.idea
+*.iml
+output
+apache*
+/jsonInput4JavaParser
+/input
+/simplified_dataset
+/output
